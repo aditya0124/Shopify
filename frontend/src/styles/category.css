@@ -1,0 +1,31 @@
+.category-list {
+  margin: 10px 0;
+  padding: 10px;
+}
+
+.category-scroll-container {
+  display: flex;
+  overflow-x: scroll;
+  gap: 10px;
+  padding: 10px 0;
+  background-color: #f7f7f7;
+}
+
+.category-scroll-container::-webkit-scrollbar {
+  display: none;
+}
+
+.category-box {
+  padding: 10px 20px;
+  border-radius: 25px;
+  background-color: #1e3a8a;
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  transition: background-color 0.3s ease;
+}
+
+.category-box:hover {
+  background-color: #3b82f6;
+}
