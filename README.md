@@ -1,4 +1,5 @@
 ---
+
 # Shopify - Front-End Internship Assignment
 
 ## Overview
@@ -12,8 +13,12 @@ The project is fully responsive, built with a mobile-first approach, and demonst
 ### 1. **Login Page**
    - Form with fields for username and password.
    - Authenticating the user using the Fake Store API's `/auth/login` endpoint.
-   - Storing the JWT token in localStorage for maintaining user session.
+   - Storing the JWT token in localStorage for maintaining the user session.
    - Redirecting to the product listing page upon successful login.
+
+   **Login Credentials:**
+   - Username: **johnd**
+   - Password: **m38rmF$**
 
 ### 2. **Product Listing Page (Home)**
    - Fetches and displays all products from the `/products` endpoint.
@@ -46,9 +51,9 @@ The project is fully responsive, built with a mobile-first approach, and demonst
 
 ## Deployment
 
- I deployed it on **Vercel**. You can view the live version of the project at the link below:
+I deployed it on **Vercel**. You can view the live version of the project at the link below:
 
-[Live Demo](#) (Link to live demo on Vercel)
+[Live Demo](https://shopify-orcin-pi.vercel.app/)
 
 ## Setup Instructions
 
@@ -72,8 +77,6 @@ To run the project locally:
 
 This will start the app on `http://localhost:5173` by default.
 
-```
-
 ## Conclusion
 
 This project helped me enhance my skills in React.js, API integration, and front-end development in general. I focused on building a responsive and clean user interface, ensuring that the website is mobile-friendly and offers an intuitive user experience.
@@ -86,9 +89,9 @@ Thank you for your time and consideration!
 
 ### Best Regards,  
 **Aditya**  
-Mail : adityanath.connect@gmail.com
-Github : https//www.github.com/aditya0124
+Email: [adityanath.connect@gmail.com](mailto:adityanath.connect@gmail.com)  
+GitHub: [https://github.com/aditya0124](https://github.com/aditya0124)
 
 ---
 
-This version removes the company name and introduces a more personal touch, framing the README as a showcase of your work for an internship assignment.
+This version includes the login credentials for testing and the live demo link hosted on Vercel.
